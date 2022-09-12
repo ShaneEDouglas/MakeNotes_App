@@ -28,3 +28,12 @@ public DataBaseHelper (Context context){
         onCreate(sqLiteDatabase);
     }
 }
+
+
+// Public Class Feedbackdb extends SQllitehelper
+
+/* private static void DATABASE_VERSION = 1;
+private static void DATABASE_NAME = "feeddb"
+private static void  String"CREATE_FIRST_TABLE = "create table if not exist"
+          +FIRST TABLE
+ */
